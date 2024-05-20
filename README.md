@@ -17,7 +17,7 @@ Honestly? We don't know what sir plans on covering in the course. To be even mor
   * Laplace Transform
   * Fourier Transform
 
-Besides the formal contents of the course, you will also learn 
+Besides the actual contents of the course, you will also learn 
 * Python as a tool for visualisation
 * C
 * $\LaTeX$ : A scripting language, standard for writing research papers, and now your assignments.
@@ -30,6 +30,14 @@ The work you are expected to do will mainly consist of the following
 
 
 ## $\color{Cerulean}{\text{Working on Online Assignments}}$
+Begin with messaging `/getquestion` in the channel `#question-assign`. The Course Bot will get back to you in approximately 30 seconds. If it is your first time messaging the bot, the response should be something like this 
+
+![getquestion For New Users](Figures/Working%20getquestion.png)
+Your DMs should now contain the details of the question you have been assigned.
+
+> Note
+> * When you call the command, you now have 1 assigned question.
+> * You can only have one active question at a time. Unless sir specifies the question is on hold, or until the solution is accepted, you cannot request another question. 
 
 
 ## $\color{Cerulean}{\text{Working on Hardware Assignments}}$
@@ -41,4 +49,5 @@ You will be evaluated on the demo of the circuit, the understanding you show dur
 
 > The lab work may be in pairs or in groups of 3 / 4. The lab reports must be written individually, the students will be questioned individually 
  
-> [!TIP] Experiment a lot with the circuit given. Try to improve it. Try to make changes and see what happens. Measure every possible voltage or current you can.
+> [!TIP] 
+> Experiment a lot with the circuit given. Try to improve it. Try to make changes and see what happens. Measure every possible voltage or current you can. Document the process.

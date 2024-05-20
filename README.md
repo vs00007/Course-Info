@@ -25,8 +25,20 @@ Besides the formal contents of the course, you will also learn
 ## $\color{Cerulean}{\text{Course Work}}$
 The work you are expected to do will mainly consist of the following
 * "Online Assignments" : These are the questions given to you in the `#question-assign` channel of Discord. Further instructions [here](#colorceruleantextworking-on-online-assignments)
-
+* "Hardware Assignments" : These are circuits that you are supposed to build in the lab. More information [here](#colorceruleantextworking-on-hardware-assignments)
 
 
 
 ## $\color{Cerulean}{\text{Working on Online Assignments}}$
+
+
+## $\color{Cerulean}{\text{Working on Hardware Assignments}}$
+* The components and the circuit schematic will be provided (mostly). There is a chance that sir may ask you to design your own circuit. 
+* There will be a viva-voce after the circuit building is done.
+* You must maintain a handwritten Lab Report.
+
+You will be evaluated on the demo of the circuit, the understanding you show during the viva, and your lab report.
+
+> The lab work may be in pairs or in groups of 3 / 4. The lab reports must be written individually, the students will be questioned individually 
+ 
+> [!TIP] Experiment a lot with the circuit given. Try to improve it. Try to make changes and see what happens. Measure every possible voltage or current you can.

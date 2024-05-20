@@ -41,4 +41,5 @@ You will be evaluated on the demo of the circuit, the understanding you show dur
 
 > The lab work may be in pairs or in groups of 3 / 4. The lab reports must be written individually, the students will be questioned individually 
  
-> [!TIP] Experiment a lot with the circuit given. Try to improve it. Try to make changes and see what happens. Measure every possible voltage or current you can.
+> [!TIP]
+> Experiment a lot with the circuit given. Try to improve it. Try to make changes and see what happens. Measure every possible voltage or current you can.

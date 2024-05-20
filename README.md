@@ -24,7 +24,7 @@ Besides the formal contents of the course, you will also learn
 
 ## $\color{Cerulean}{\text{Course Work}}$
 The work you are expected to do will mainly consist of the following
-* "Online Assignments" : These are the questions given to you in the `#question-assign` channel of Discord. Further instructions [here](colorceruleantextworking-on-online-assignments)
+* "Online Assignments" : These are the questions given to you in the `#question-assign` channel of Discord. Further instructions [here](#colorceruleantextworking-on-online-assignments)
 
 
 

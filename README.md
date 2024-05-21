@@ -3,12 +3,14 @@ Hi there!
 Welcome to IITH. This course marks the beginning of a unique experience at IITH. For better or for worse, this course is the only one of this kind. 
 
 
+
+
 > [!CAUTION]
 >This course will be very intensive. (Contrary to other courses) If you want a good grade, you must put in much more time and effort.
 >Be inquisitive. Ask questions. Doesn't matter if they are bad. Also, answer in class. Doesn't matter if the answer is terribly wrong. You'll understand the reason later.
 
 ## $\color{Cerulean}{\text{Course Content}}$
-Honestly? We don't know what sir plans on covering in the course. To be even more honest, sir barely knows what he'll cover during the course. But the basic topics you can expect to learn are the following. 
+Honestly? We don't know what sir plans on covering in the course. To be even more honest, sir barely knows what he'll cover during the course. Here's a general idea of what you can expec to do throughout the semester:
 * Basic Circuital understanding
 * KCL and KVL
 * 2 Port Network Analysis
@@ -18,9 +20,10 @@ Honestly? We don't know what sir plans on covering in the course. To be even mor
   * Fourier Transform
 
 Besides the actual contents of the course, you will also learn 
-* Python as a tool for visualisation
-* C
-* $\LaTeX{}$ : A scripting language, standard for writing research papers, and now your assignments.
+* Python as a tool for visualisation (making "cool" graphs and stuff)
+* C 
+* $\LaTeX{}$ :Forget messy handwriting,
+this is how real engineers write their reports (and it looks fancy too).
 
 ## $\color{Cerulean}{\text{Course Work}}$
 The work you are expected to do will mainly consist of the following
@@ -54,10 +57,12 @@ Another format may be
 `(EXAM NAME / YEAR / SHIFT / QNO)` for GATE / JEE questions
 
 ### $\color{cyan}{\text{Solving the question}}$
-It took us a while to understand the guidelines for writing the solution to the first question (Almost a month). To make it slightly easier for you, we have created a guide (Took us a long time) for some things you may struggle with in the beginning. Here is the *[Latex Guide]()* *. And here is the *[Python Guide]()*.  
+It took us a while to understand the guidelines for writing the solution to the first question (Almost a month). To make it slightly easier for you, we have created a few awesome guides (Took us a long time 🙂) for some things you may struggle with in the beginning. Here is the *[Latex Guide]()* *. And here is the *[Python Guide]()*.  
 
-Your approach to the question determines how things will go. Try to apply any and all concepts you have discovered in class, to the question. If you do not get an approach, do ask sir. You will be asked to redo the assignments multiple times, with small changes each time, until sir is satisfied with your pdf.  
+Your approach to the question determines how things will go. Try to apply any and all concepts you have discovered in class, to the question. If you do not get an approach, do ask sir. You will have to redo the assignments multiple times, with small changes each time, until sir is satisfied with your pdf. 
 
+Students during GVV sir's course be like
+![You can expect to be like this ](Figures/revise-meme.png)
 
 *<sub> These guides will be removed after a month-and-a-half. </sub>
 

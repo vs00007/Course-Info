@@ -13,7 +13,7 @@ Honestly? We don't know what sir plans on covering in the course. To be even mor
 * KCL and KVL
 * 2 Port Network Analysis
 * Operational Amplifiers
-* RLC Circuits (AC Steady State analysis)
+* RLC Circuits (Sinusoidal Steady State analysis)
   * Laplace Transform
   * Fourier Transform
 

@@ -20,7 +20,7 @@ Honestly? We don't know what sir plans on covering in the course. To be even mor
 Besides the actual contents of the course, you will also learn 
 * Python as a tool for visualisation
 * C
-* $\LaTeX$ : A scripting language, standard for writing research papers, and now your assignments.
+* $\LaTeX{}$ : A scripting language, standard for writing research papers, and now your assignments.
 
 ## $\color{Cerulean}{\text{Course Work}}$
 The work you are expected to do will mainly consist of the following

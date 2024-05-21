@@ -1,4 +1,4 @@
-# $\color{Cerulean}{\text{EE1101: Circuits and Network Analysis -- Course Wiki}}$
+# $\color{Cerulean}{\text{EE1101: Course Wiki}}$
 Hi there! 
 Welcome to IITH. This course marks the beginning of a unique experience at IITH. For better or for worse, this course is the only one of this kind. 
 
@@ -30,15 +30,36 @@ The work you are expected to do will mainly consist of the following
 
 
 ## $\color{Cerulean}{\text{Working on Online Assignments}}$
-Begin with messaging `/getquestion` in the channel `#question-assign`. The Course Bot will get back to you in approximately 30 seconds. If it is your first time messaging the bot, the response should be something like this 
+
+### $\color{cyan}{\text{Getting the Question}}$
+Send the message `/getquestion` in the channel `#question-assign`. The Course Bot will get back to you in approximately 30 seconds. If it is your first time messaging the bot, the response should be something like this 
 
 ![getquestion For New Users](Figures/Working%20getquestion.png)
 Your DMs should now contain the details of the question you have been assigned.
 
 > Note
-> * When you call the command, you now have 1 assigned question.
+> * When you call the command, you have 1 assigned question.
 > * You can only have one active question at a time. Unless sir specifies the question is on hold, or until the solution is accepted, you cannot request another question. 
 
+You can request a question any number of times, assuming completion before each request.
+
+### $\color{cyan}{\text{Decrypting the question }}$
+The question you are assigned will be of the form
+
+ `(Source) - (year/chapter_number/question_number)`
+
+For example, `NCERT - 11/5/26` indicates question 26, from the 5th chapter in the year 11 from NCERT Physics Textbook.
+Another format may be 
+
+`(EXAM NAME / YEAR / SHIFT / QNO)` for GATE / JEE questions
+
+### $\color{cyan}{\text{Solving the question}}$
+It took us a while to understand the guidelines for writing the solution to the first question (Almost a month). To make it slightly easier for you, we have created a guide (Took us a long time) for some things you may struggle with in the beginning. Here is the *[Latex Guide]()* *. And here is the *[Python Guide]()*.  
+
+Your approach to the question determines how things will go. Try to apply any and all concepts you have discovered in class, to the question. If you do not get an approach, do ask sir. You will be asked to redo the assignments multiple times, with small changes each time, until sir is satisfied with your pdf.  
+
+
+*<sub> These guides will be removed after a month-and-a-half. </sub>
 
 ## $\color{Cerulean}{\text{Working on Hardware Assignments}}$
 * The components and the circuit schematic will be provided (mostly). There is a chance that sir may ask you to design your own circuit. 

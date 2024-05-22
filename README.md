@@ -25,6 +25,16 @@ Besides the actual contents of the course, you will also learn
 * $\LaTeX{}$ :Forget messy handwriting,
 this is how real engineers write their reports (and it looks fancy too).
 
+## $\color{Cerulean}{\text{Classes}}$
+
+Your first class will be at the institute assigned time, and venue will be shared by sir before the class. The rest of the classes will be on a weekday (Wednesday mostly) from 5:30 PM to 8:30 PM. 
+
+The classes will consist of "quizzes" which are essentially sir giving you question on the board, and you having to solve them using whatever online tools, and discussion with others. Everyday, sir will give a question, you have to answer it in a given time (5-15 min) and submit, at which point, sir will ask for volunteers to solve the question on the board. If no one volunteers, he will choose. (Even if you don't know the answer, dw).
+
+You also might have code assignments in the class. Sir will ask you to do something related to a previous question, and you need to write code (or prompt an AI to write code). The submissions will be handled by the discord channel send-codes 
+You also might have code assignments in the class. Sir will ask you to do something related to a previous question, and you will need to write code (or prompt an AI to write code). The submissions will be handled by the discord channels `#send-codes` or `#send-output`, and the TAs will evaluate the submissions until the time limit.
+
+
 ## $\color{Cerulean}{\text{Course Work}}$
 The work you are expected to do will mainly consist of the following
 * "Online Assignments" : These are the questions given to you in the `#question-assign` channel of Discord. Further instructions [here](#colorceruleantextworking-on-online-assignments)

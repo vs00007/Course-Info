@@ -53,9 +53,9 @@ Another format may be
 `(EXAM NAME / YEAR / SHIFT / QNO)` for GATE / JEE questions
 
 ### $\color{cyan}{\text{Solving the question}}$
-It took us a while to understand the guidelines for writing the solution to the first question (Almost a month). To make it slightly easier for you, we have created a few guides (Took us a long time 🙂) for some things you may struggle with in the beginning. Here is the *[Latex Guide]()* 
-
+Study the reference document given in [Course-Setup](https://github.com/Mihir-Divyansh/Course-Setup/blob/a12b604a79e0056068c94088a1f10e1cc1dfe458/LaTeX/Example%20Assignment/main.tex)
 Your approach to the question determines how things will go. Try to apply any and all concepts you have discovered in class, to the question. If you do not get an approach, do ask sir or any of the TAs. You will have to redo the assignments multiple times, with small changes each time, until sir/your TA is satisfied with your pdf. 
+
 
 Students during GVV sir's course be like
 ![You can expect to be like this during the course](Figures/revise-meme.png)
@@ -74,10 +74,10 @@ How is it useful to us?
 
 Well, you see, Sir keeps track of the questions that the students solve, by creating a book containing all the accepted solutions. It is easier with GitHub
 
-If you completed the course setup, you already have a GitHub account and a Repository for this course. Since your questions will be of multiple types, it will benefit you if you create a folder for each type.
+If you completed the course setup, you already have a GitHub account and a Repository for this course. Since your questions will be of multiple types, it will benefit you if you create a folder for each type, as you get a question pertaining to it.
 * NCERT
 * GATE
-* ~~JEE~~ 
+* JEE
 
 You can then label your assignments in any manner. 
 Your assignment folder must contain the following 

@@ -124,6 +124,8 @@ When sir tells you to commit a solution to repo, you need to
     pdflatex main.tex 
     pdflatex main.tex
   ```
+ (yes, twice)
+ 
 6. This will generate the pdf of the book. 
 7. Open a pull request for sir's repo, with the commit message
     > "Q.no in Book - Q.no wrt source, Name, Roll number"

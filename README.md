@@ -85,7 +85,7 @@ Your assignment folder must contain the following
 * A Folder named 'figs' if you have any figures in your document
 * A Folder named 'codes' to store C / Python codes.
 
-Ideally, here's how your repo should look.
+Ideally, here's how your Assignment Folder should look.
 
 ![IMAGE 2024-07-31 18:42:19](https://github.com/user-attachments/assets/9538cafa-8c3a-41df-b326-90ff6e7476a3)
 
